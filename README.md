@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NeuroAgent**
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **Agentic Ai and RAG**
 
 - 👨‍💻 All of my projects are available at [https://siddulabs.vercel.app](https://siddulabs.vercel.app)
 
