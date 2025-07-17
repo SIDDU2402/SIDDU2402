@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://siddulabs.vercel.app](https://siddulabs.vercel.app)
 
-- 💬 Ask me about **Python, React**
+- 💬 Ask me about **Python, Cloud**
 
 - 📫 How to reach me **siddunikhilesh517@gmail.com**
 
