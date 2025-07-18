@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bezawada Siddi Nikhilesh</h1>
 <h3 align="center">On a mission to build smart systems using Cloud and AI Agents</h3>
 
-- 🔭 I’m currently working on **NeuroAgent**
+- 🔭 I’m currently working on **GPT Wrapper for my own Agentic App Builder**
 
 - 🌱 I’m currently learning **Agentic Ai and RAG**
 
